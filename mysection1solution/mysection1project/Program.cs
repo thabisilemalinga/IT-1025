@@ -34,20 +34,26 @@ namespace mysection1project
             System.Console.Write("What is your Height in feet 4, 5, or 6?");
             HeightFeet = int.Parse(System.Console.ReadLine());
             System.Console.Write("How many inches beyond your base height in feet to add to your height?");
-            HeightInches =.9;
-            System.Console.Write("totalHeightCM");
-           (totalHeightCM ) =(HeightFeet + HeightInches);
+            HeightInches = int.Parse(System.Console.ReadLine());
+            (totalHeightCM ) =((HeightFeet*12) + HeightInches) * 2.54;
+            System.Console.WriteLine("Your total height is "+totalHeightCM + " centimeters");
             System.Console.Write("what is your Age?");
             Age = int.Parse(System.Console.ReadLine());
-            System.Console.Write(" Are you a citizin?");
-            IsCitizen = false;
-            CanVote = false;
+            System.Console.Write(" Are you a citizen?");
+            IsCitizen = bool.Parse(System.Console.ReadLine());
+            if ((Age >= 18) && (IsCitizen = true)) ;
+            {
+                System.Console.Write(" You can vote");
+            }
+            else
+            { 
+                System.Console.Write(" You cant vote, sucks to be you loser...");
+            };
 
             System.Console.WriteLine(FullName);
             System.Console.WriteLine(totalHeightCM);
             System.Console.WriteLine(IsCitizen);
-            System.Console.WriteLine(CanVote);
-
+            
             System.Console.ReadKey();
 
 

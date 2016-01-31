@@ -4,3 +4,9 @@ C:\Users\Thabisile Malinga\Desktop\mysection1solution\mysection1project\bin\Debu
 C:\Users\Thabisile Malinga\Desktop\mysection1solution\mysection1project\obj\Debug\mysection1project.csprojResolveAssemblyReference.cache
 C:\Users\Thabisile Malinga\Desktop\mysection1solution\mysection1project\obj\Debug\mysection1project.exe
 C:\Users\Thabisile Malinga\Desktop\mysection1solution\mysection1project\obj\Debug\mysection1project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\bin\Debug\mysection1project.exe.config
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\obj\Debug\mysection1project.exe
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\obj\Debug\mysection1project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\bin\Debug\mysection1project.exe
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\bin\Debug\mysection1project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection1solution\mysection1project\obj\Debug\mysection1project.csprojResolveAssemblyReference.cache
