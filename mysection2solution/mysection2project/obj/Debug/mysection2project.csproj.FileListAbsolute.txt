@@ -7,3 +7,6 @@ C:\Users\Thabisile Malinga\Desktop\mysection2solution\mysection2project\obj\Debu
 C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\bin\Debug\mysection2project.exe.config
 C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\obj\Debug\mysection2project.exe
 C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\obj\Debug\mysection2project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\obj\Debug\mysection2project.csprojResolveAssemblyReference.cache
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\bin\Debug\mysection2project.exe
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection2solution\mysection2project\bin\Debug\mysection2project.pdb
