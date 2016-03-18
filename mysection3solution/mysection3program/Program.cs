@@ -21,18 +21,17 @@ namespace mysection3program
             Student Student3 = new Student("Melisa",0, Instructor2);
             Student Student4 = new Student("Matt",0, Instructor2);
 
-
             System.Console.WriteLine("        [INSTRUCTOR GIVES STUDENTS GRADES]       ");
             System.Console.WriteLine();
-
-
 
             System.Console.WriteLine(Instructor1.SetStudentGrade(Instructor1,Student1, 95));
             System.Console.WriteLine(Instructor1.SetStudentGrade(Instructor1,Student2, 85));
             System.Console.WriteLine(Instructor2.SetStudentGrade(Instructor1, Student3, 90));
             System.Console.WriteLine(Instructor2.SetStudentGrade(Instructor1, Student4, 92));
             System.Console.WriteLine();
-                        
+
+            System.Console.WriteLine("      [ STUDENTS GRADE]");
+            System.Console.WriteLine();
             String Student1str = Student1.PrintStudentInformation();
             String Student2str = Student2.PrintStudentInformation();
             String Student3str = Student3.PrintStudentInformation();
@@ -45,14 +44,18 @@ namespace mysection3program
             System.Console.WriteLine(Student4.PrintStudentInfo());
             System.Console.WriteLine();
 
+            System.Console.WriteLine("    [INSTRUCTORS INFORMATION]        ");
+            System.Console.WriteLine();
+
             string Instructor1str = Instructor1.PrintInstuctorInformation();
             string Instructor2str = Instructor2.PrintInstuctorInformation();
 
             System.Console.WriteLine(Instructor1str);
             System.Console.WriteLine(Instructor2str);
             System.Console.WriteLine();
-        
-                   
+            System.Console.WriteLine("     [STUDENTS INFORMATION]      ");
+            System.Console.WriteLine();
+            
             System.Console.WriteLine(Student1str);
             System.Console.WriteLine(Student2str);
             System.Console.WriteLine(Student3str);
