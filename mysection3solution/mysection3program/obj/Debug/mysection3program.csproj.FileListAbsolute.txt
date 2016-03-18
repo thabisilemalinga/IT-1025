@@ -1,0 +1,6 @@
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\bin\Debug\mysection3program.exe.config
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\obj\Debug\mysection3program.csprojResolveAssemblyReference.cache
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\bin\Debug\mysection3program.exe
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\bin\Debug\mysection3program.pdb
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\obj\Debug\mysection3program.exe
+C:\Users\Thabisile Malinga\Desktop\mysection3solution\mysection3program\obj\Debug\mysection3program.pdb
