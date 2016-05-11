@@ -4,3 +4,9 @@ C:\Users\Thabisile Malinga\Desktop\visual studio 2015\Projects\mysection5solutio
 C:\Users\Thabisile Malinga\Desktop\visual studio 2015\Projects\mysection5solution\mysection5project\bin\Debug\mysection5project.pdb
 C:\Users\Thabisile Malinga\Desktop\visual studio 2015\Projects\mysection5solution\mysection5project\obj\Debug\mysection5project.exe
 C:\Users\Thabisile Malinga\Desktop\visual studio 2015\Projects\mysection5solution\mysection5project\obj\Debug\mysection5project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\bin\Debug\mysection5project.exe.config
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\obj\Debug\mysection5project.exe
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\obj\Debug\mysection5project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\bin\Debug\mysection5project.exe
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\bin\Debug\mysection5project.pdb
+C:\Users\Thabisile Malinga\Desktop\IT-1025\mysection5solution\mysection5project\obj\Debug\mysection5project.csprojResolveAssemblyReference.cache

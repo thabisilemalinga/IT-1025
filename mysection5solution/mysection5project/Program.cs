@@ -12,7 +12,7 @@ namespace mysection5project
     {
        public static void Main(string[] args)
         {
-            while (Question.AskForString("Add new Student list? (Y/N)").ToUpper().StartsWith("Y"))
+            while (Question.AskForString("Add a new Student list? (Y/N)").ToUpper().StartsWith("Y"))
             {
             System.Console.WriteLine();
             System.Console.Write("Enter course Name?");
