@@ -1,8 +1,0 @@
-c:\users\thabisile malinga\desktop\visual studio 2015\Projects\Final_Exam_solution\Final_Exam_project\bin\Debug\Final_Exam_project.exe.config
-c:\users\thabisile malinga\desktop\visual studio 2015\Projects\Final_Exam_solution\Final_Exam_project\bin\Debug\Final_Exam_project.exe
-c:\users\thabisile malinga\desktop\visual studio 2015\Projects\Final_Exam_solution\Final_Exam_project\bin\Debug\Final_Exam_project.pdb
-c:\users\thabisile malinga\desktop\visual studio 2015\Projects\Final_Exam_solution\Final_Exam_project\obj\Debug\Final_Exam_project.exe
-c:\users\thabisile malinga\desktop\visual studio 2015\Projects\Final_Exam_solution\Final_Exam_project\obj\Debug\Final_Exam_project.pdb
-C:\Users\Thabisile Malinga\Desktop\IT-1025\Final_Exam_solution\Final_Exam_project\bin\Debug\Final_Exam_project.exe.config
-C:\Users\Thabisile Malinga\Desktop\IT-1025\Final_Exam_solution\Final_Exam_project\obj\Debug\Final_Exam_project.exe
-C:\Users\Thabisile Malinga\Desktop\IT-1025\Final_Exam_solution\Final_Exam_project\obj\Debug\Final_Exam_project.pdb
